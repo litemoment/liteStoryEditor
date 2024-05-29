@@ -1,0 +1,3 @@
+google-auth
+gspread
+oauth2client
